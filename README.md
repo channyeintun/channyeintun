@@ -1,6 +1,6 @@
 ## <img width="45" alt="about" src="https://raw.github.com/channyeintun/channyeintun/master/about.png"> More about me
 ```kotlin
-val antonarhipov = developer {
+val channyeintun = developer {
     about {
         name = "Chan Nyein Tun"
         company = Nexcode
