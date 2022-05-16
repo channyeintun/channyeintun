@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=channyeintun" alt="nigma-bit" /> </p>  
 ```kotlin
 val channyeintun = developer {
     about {
