@@ -5,7 +5,7 @@ val channyeintun = developer {
         role = "Web Developer"
         company = "Nexcode"
     }
-    tech("Kotlin", "Java", "Spring", "Javascript", "React")
+    tech("Java", "Spring", "Javascript", "React")
     links {
         twitter = "@chanyeintun"
     }
