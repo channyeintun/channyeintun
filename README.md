@@ -3,9 +3,8 @@ val channyeintun = developer {
     about {
         name = "Chan Nyein Tun"
         role = "Frontend Developer"
-        company = "Nexcode"
     }
-    tech("Java", "Spring", "Javascript", "React")
+    tech("Java", "Spring", "Javascript", "React","TypeScript")
     links {
         twitter = "@chanyeintun"
     }
