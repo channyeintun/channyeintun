@@ -1,12 +1,6 @@
-```javascript
-var channyeintun = {
-    about : {
-        name : "Chan Nyein Tun",
-        role : "React Developer"
-    },
-    tech:["JavaScript","React","TypeScript","Nextjs","React Native"],
-    links :{
-        twitter : "@chanyeintun"
-    }
+```kotlin
+fun main() {
+    val effort = listOf("TypeScript","TDD","SASS","Kubernetes")
+    println(effort.map { it+"x10"})
 }
 ```
