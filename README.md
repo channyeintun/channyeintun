@@ -1,6 +1,6 @@
 ```kotlin
 fun main() {
-    val effort = listOf("React","TypeScript","TDD","CSS/SASS","CI/CD")
-    println(effort.map { it+"x10"})
+    val skills = listOf("React","TypeScript","TDD","CSS/SASS","CI/CD")
+    println("I love to learn these $skills")
 }
 ```
