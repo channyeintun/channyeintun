@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Chan Nyein Tun!](https://github.com/channyeintun/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/channyeintun)
-[![ReadCV Badge](https://img.shields.io/badge/-Read.CV-1877F2?style=flat-square&logo=Read.CV&logoColor=white)](https://read.cv/channyeintun)
+[![ReadCV Badge](https://img.shields.io/badge/-Read.CV-333333?style=flat-square&logo=Read.CV&logoColor=white)](https://read.cv/channyeintun)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/cnt.guru)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Glad+to+see+you+here!;I'm+a+software+engineer.)](https://git.io/typing-svg)
@@ -18,4 +18,5 @@ I'm from Myanmar 🇲🇲. I'm a **frontend engineer** with over 3 years of expe
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
-![ChatGPT](https://img.shields.io/badge/chatGPT-000?logo=openai&logoColor=74aa9c)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000?logo=openai&logoColor=74aa9c)
+![SourceTree](https://img.shields.io/badge/SourceTree-000?logo=sourcetree&logoColor=1877F2)
