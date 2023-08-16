@@ -13,6 +13,7 @@ I'm from Myanmar 🇲🇲. I'm a **frontend engineer** with over 3 years of expe
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React/ReactNative-000?&logo=React)
+![Nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=nextdotjs)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![React Query](https://img.shields.io/badge/-ReactQuery-000?&logo=ReactQuery)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
