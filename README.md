@@ -23,4 +23,4 @@ I'm from Myanmar 🇲🇲. I'm a **frontend engineer** with over 3 years of expe
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000?logo=openai&logoColor=74aa9c)
 
 ### Hobby
-I play ![XState](https://img.shields.io/badge/-logo=xstate)
+I play ![XState](https://img.shields.io/badge/logo=playstation2)
