@@ -21,4 +21,3 @@ I'm from Myanmar 🇲🇲. I'm a **frontend engineer** with over 3 years of expe
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000?logo=openai&logoColor=74aa9c)
-![PlayStation2](https://img.shields.io/badge/PlayStation2-000?logo=playstation2)
