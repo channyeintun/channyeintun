@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Glad+to+see+you+here!)](https://git.io/typing-svg)
 
 
-I'm from Myanmar 🇲🇲. I'm a **frontend engineer** with over 3 years of experience. My expertise lies in JavaScript and React, and I'm passionate about writing clean code. I am actively learning cloud technologies such as docker and Kubernetes. I have a strong understanding of HTML and CSS, focusing on accessibility and user experience. Let's connect and work on innovative frontend projects together! Feel free to reach out. 😊
+I'm from Myanmar 🇲🇲. I'm a **frontend engineer** with over 3 years of experience. My expertise lies in JavaScript and React, and I'm passionate about writing clean code. I am actively learning cloud technologies such as docker and Kubernetes. I have a strong understanding of HTML and CSS, focusing on accessibility and user experience. Let's connect and work on innovative projects together! Feel free to reach out. 😊
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
