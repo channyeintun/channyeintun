@@ -7,7 +7,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Glad+to+see+you+here!)](https://git.io/typing-svg)
 
 
-I'm from Myanmar 🇲🇲. I'm a **frontend engineer** with over 3 years of experience. My expertise lies in JavaScript/TypeScript and React/Next.js, and I'm passionate about writing clean code. I have a strong understanding of HTML and CSS, focusing on accessibility and user experience. Let's connect and work on innovative projects together! Feel free to reach out. 😊
+I'm from Myanmar 🇲🇲. 
+
+Coding isn't just a job, it's my passion. With nearly 4 years of experience, I've honed my skills in languages like JavaScript, TypeScript, Java, and their popular frameworks. Whether it's a complex web app or a sleek mobile experience, I thrive on creating solutions that users love.
+
+I'm not just about building, but building well. I'm obsessed with crafting clean, efficient code and setting up systems that run smoothly. Research is my secret weapon; I'm always diving deep to learn new paradigms, design patterns, and best practices.
+
+Web3 and cloud tech have me buzzing. Imagine a decentralized future, and I'm right there exploring it. Learning these cutting-edge technologies keeps me on my toes and fuels my drive to create innovative solutions.
+
+My ambition? To become a tech leader who can translate ideas into reality. I'm always looking to learn, collaborate, and tackle challenges head-on. Connect with me if you're building something awesome and need a passionate engineer who's never done learning!
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
