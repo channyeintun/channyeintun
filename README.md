@@ -9,7 +9,7 @@
 
 I'm from Myanmar 🇲🇲. 
 
-Coding isn't just a job, it's my passion. With 4 years of experience, I've honed my skills in languages like JavaScript, TypeScript, Java, and their popular frameworks. Whether it's a complex web app or a sleek mobile experience, I thrive on creating solutions that users love.
+Coding isn't just a job, it's my passion. With 4 years of experience, I've honed my skills in languages like JavaScript, TypeScript, and their popular frameworks. Whether it's a complex web app or a sleek mobile experience, I thrive on creating solutions that users love.
 
 I'm not just about building, but building well. I'm obsessed with crafting clean, efficient code and setting up systems that run smoothly. Research is my secret weapon; I'm always diving deep to learn new paradigms, design patterns, and best practices.
 
