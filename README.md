@@ -1,7 +1,6 @@
 ## Hey 👋, I'm [Chan Nyein Tun!](https://github.com/channyeintun/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/channyeintun)
-[![ReadCV Badge](https://img.shields.io/badge/-Read.CV-333333?style=flat-square&logo=Read.CV&logoColor=white)](https://read.cv/channyeintun)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/cnt.guru)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Glad+to+see+you+here!)](https://git.io/typing-svg)
