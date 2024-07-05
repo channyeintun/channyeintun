@@ -27,4 +27,3 @@ My ambition? To become a tech leader who can translate ideas into reality. I'm a
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000?logo=openai&logoColor=74aa9c)
