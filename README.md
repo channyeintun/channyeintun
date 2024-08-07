@@ -26,4 +26,7 @@ My ambition? To become a tech leader who can translate ideas into reality. I'm a
 ![React Query](https://img.shields.io/badge/-ReactQuery-000?&logo=ReactQuery)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
+![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)  
+![Spring](https://img.shields.io/badge/-Spring?&logo=Spring)  
+![Spring](https://img.shields.io/badge/-MySql?&logo=MySQL)
+
