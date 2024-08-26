@@ -33,10 +33,12 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="postgresql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="postgresql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="postgresql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="postgresql" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollostack" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="nextjs" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/xstate.svg" alt="xstate" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 </p>
 
