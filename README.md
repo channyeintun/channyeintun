@@ -18,26 +18,26 @@ Here are some ideas to get you started:
 
 <h3>🚀 Some Tools I Use</h3>
 <p align="left">
-<img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="40" height="25" />
 <img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="80" height="25" />
+<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="40" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/vue.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="25" />
 <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollostack" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="nextjs" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="nextjs" width="50" height="25" />
 <img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/xstate.svg" alt="xstate" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/strapi.svg" alt="strapi" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/xstate.svg" alt="xstate" width="50" height="25" />
+<img src="https://cdn.svgporn.com/logos/strapi.svg" alt="strapi" width="75" height="25" />
 <img src="https://cdn.svgporn.com/logos/prisma.svg" alt="prisma" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="25" height="25" />
 </p>
