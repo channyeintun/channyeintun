@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm Chan Nyein Tun, Software Developer focusing on Golang and React. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm Chan Nyein Tun, a Software Developer focusing on Golang and React. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/channyeintun)
