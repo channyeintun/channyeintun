@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working at [Nexcode](https://www.luxoft.com/)
-- 🌱 I currently focus on Go and React
+- 🌱 I currently focus on Go and React.js
 - 📫 How to reach me: chanyeintun@gmail.com
 
 <h3>🚀 Some Tools I Use</h3>
