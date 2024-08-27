@@ -37,5 +37,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="nextjs" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/xstate.svg" alt="xstate" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/strapi.svg" alt="strapi" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/prisma.svg" alt="prisma" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="25" height="25" />
 </p>
