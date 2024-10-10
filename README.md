@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="25" />
+<img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodejs" width="50" height="25" />
 <img src="https://cdn.svgporn.com/logos/deno.svg" alt="deno" width="50" height="25" />
 <img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="nextjs" width="50" height="25" />
 <img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" width="25" height="25" />
