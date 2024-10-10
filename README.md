@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="50" height="25" />
+<img src="https://cdn.svgporn.com/logos/typescript.svg" alt="typescript" width="50" height="25" />
 <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodejs" width="50" height="25" />
 <img src="https://cdn.svgporn.com/logos/deno.svg" alt="deno" width="50" height="25" />
 <img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="nextjs" width="50" height="25" />
