@@ -11,7 +11,7 @@ I'm Chan Nyein Tun, a Software Developer focusing on Golang and React. <img src=
 
 Here are some ideas to get you started:
 
-- I’m currently working at [BinaryLab](https://binarylab.io/)
+- 🔭 I’m currently working at [BinaryLab](https://binarylab.io/)
 - 🌱 I currently focus on Go and React.js
 - 📫 How to reach me: chanyeintun@gmail.com
 
