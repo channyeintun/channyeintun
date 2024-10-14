@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Backend:
 <img src="https://skillicons.dev/icons?i=express,spring,mysql,postgres,mongodb,prisma,elasticsearch,rabbitmq" />  
 
-### CI:
+### CI/CD:
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" />  
 
 ### Cloud Providers:
