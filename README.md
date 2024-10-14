@@ -8,16 +8,22 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Golang, AI and Accessibility.
 
 ### Web Design:
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass" />  
+
 ### Languages:
-<img src="https://skillicons.dev/icons?i=js,ts,go,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,go,java" />  
+
 ### Frontend:
-<img src="https://skillicons.dev/icons?i=react,nextjs,remix,redux,vite,vitest,jest,jquery" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,remix,redux,vite,vitest,jest,jquery" />  
+
 ### Backend:
-<img src="https://skillicons.dev/icons?i=express,spring,mysql,postgres,mongodb,prisma,elasticsearch,rabbitmq" />
+<img src="https://skillicons.dev/icons?i=express,spring,mysql,postgres,mongodb,prisma,elasticsearch,rabbitmq" />  
+
 ### CI:
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" />  
+
 ### Cloud Providers:
-<img src="https://skillicons.dev/icons?i=aws,vercel" />
+<img src="https://skillicons.dev/icons?i=aws,vercel" />  
+
 ### IDE and other tools:
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux" />
