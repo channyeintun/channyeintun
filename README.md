@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=react,nextjs,remix,redux,vite,vitest,jest,jquery" />  
 
 ### Backend:
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb,prisma,elasticsearch,rabbitmq" />  
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb,prisma,graphql,elasticsearch,rabbitmq" />  
 
 ### CI/CD:
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" />  
