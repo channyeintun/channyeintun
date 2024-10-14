@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=aws,vercel" />  
 
 ### IDEs and other tools:
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux,notion" />
