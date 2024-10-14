@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ### Cloud Providers:
 <img src="https://skillicons.dev/icons?i=aws,vercel" />  
 
-### IDE and other tools:
+### IDEs and other tools:
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux" />
