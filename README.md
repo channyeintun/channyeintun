@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Chan Nyein Tun.
+You can read my blog (here)[https://channyeintun.gitbook.io/]
 
 Here are some of my favorite tools:  
 
