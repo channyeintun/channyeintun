@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Chan Nyein Tun.  
-Explore my [GitBook](https://channyeintun.gitbook.io/)
+Explore my [GitBook](https://channyeintun.gitbook.io/).
 
 Here are some of my favorite tools:  
 
