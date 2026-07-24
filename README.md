@@ -29,7 +29,7 @@ A browser-based recorder and replay engine for real, multi-file coding lessons. 
 
 ### 🌊 Nami
 
-**[nami-cli.vercel.app](https://nami-cli.vercel.app)** · **[source](https://github.com/channyeintun/nami)** · Go
+**[github.com/channyeintun/nami](https://github.com/channyeintun/nami)** · Go
 
 An agentic coding CLI powered by LLMs — think, plan, and execute code changes without leaving the terminal. A Go engine drives the agent loop, tool execution, and permission gating; a custom TUI (**Silvery**) streams the session; and plans, task lists, and walkthroughs persist as first-class, reviewable artifacts. Works with Anthropic, OpenAI, Google, DeepSeek, Groq, Mistral, Ollama, and GitHub Copilot.
 
