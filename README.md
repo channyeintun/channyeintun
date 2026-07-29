@@ -5,8 +5,8 @@
 **I build for the web, the terminal, and the chain — mostly in TypeScript and Go.**
 
 <p>
-  <a href="https://www.linkedin.com/in/channyeintun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://channyeintun.gitbook.io/"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook" /></a>
+  <a href="https://www.linkedin.com/in/channyeintun/"><img src="assets/linkedin.svg" width="161" height="70" alt="LinkedIn" /></a>
+  <a href="https://channyeintun.gitbook.io/"><img src="assets/gitbook.svg" width="161" height="70" alt="GitBook" /></a>
 </p>
 
 </div>
