@@ -49,8 +49,6 @@ Most of my work now starts as a prompt, a plan, and a review. The agents I actua
   <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white" alt="OpenCode" />
 </p>
 
-Building **Nami** is how I keep that honest — every one of these is a different answer to the same loop: context, tools, permissions, review.
-
 ---
 
 ## 🧰 Toolbox
