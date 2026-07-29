@@ -29,7 +29,7 @@ A browser-based recorder and replay engine for real, multi-file coding lessons. 
 
 🎬 Its **Studio** is something that doesn't exist anywhere else yet: an AI lesson-production pipeline inside the editor. A director compiles authored scripts into deterministic performances — typing the code in the real editor, drag-highlighting exactly what the narration explains, running it live — with in-browser TTS narration linted by an editorial critic. Every render must pass mechanical QA and a two-render repeatability check before a human reviews and publishes it.
 
-### 🌊 Nami
+### <img src="assets/nami.svg" width="26" align="top" alt="" /> Nami
 
 **[github.com/channyeintun/nami](https://github.com/channyeintun/nami)** · Go
 
