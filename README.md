@@ -90,6 +90,7 @@ Most of my work now starts as a prompt, a plan, and a review. The agents I actua
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Vite%2B-6254FE?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNyAxNiI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTkuMzM4IDE1LjYzMWEuMzg3LjM4NyAwIDAgMS0uNjkxLS4yMzlWMTEuODdhLjc3My43NzMgMCAwIDAtLjc3NC0uNzc0aC0zLjg5YS4zODYuMzg2IDAgMCAxLS4zMTQtLjYxMWwyLjU1Ny0zLjU4YS43NzQuNzc0IDAgMCAwLS42My0xLjIyNEguODlhLjM4Ni4zODYgMCAwIDEtLjMxNS0uNjEyTDMuODkuNDI2YS4zOS4zOSAwIDAgMSAuMzE0LS4xNjJoOS44OGMuMzE1IDAgLjQ5OS4zNTYuMzE1LjYxMWwtMi41NTcgMy41ODFhLjc3NC43NzQgMCAwIDAgLjYzIDEuMjI0aDMuODljLjMyMyAwIC41MDQuMzcyLjMwNC42MjZ6Ii8%2BPC9zdmc%2B" alt="Vite+" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" alt="VS Code" />
