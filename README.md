@@ -37,6 +37,22 @@ An agentic coding CLI powered by LLMs — think, plan, and execute code changes 
 
 ---
 
+## 🤖 Agentic coding
+
+Most of my work now starts as a prompt, a plan, and a review. The agents I actually keep open:
+
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square" alt="Codex" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white" alt="OpenCode" />
+</p>
+
+Building **Nami** is how I keep that honest — every one of these is a different answer to the same loop: context, tools, permissions, review.
+
+---
+
 ## 🧰 Toolbox
 
 **Frontend**
