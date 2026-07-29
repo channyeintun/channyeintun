@@ -23,6 +23,8 @@
 
 **[nexteditor.dev](https://nexteditor.dev)** · **[source](https://github.com/channyeintun/next-editor)** · TypeScript
 
+<a href="https://nexteditor.dev/learn/how-next-editor-works-state-not-pixels"><img src="assets/lesson-state-not-pixels.svg" width="808" height="516" alt="How Next Editor Works: State, Not Pixels — watch the lesson" /></a>
+
 A browser-based recorder and replay engine for real, multi-file coding lessons. It captures the whole workspace — editor changes, live preview, terminal, HTTP calls, slides, captions, audio, even the instructor camera — and replays everything from a single timeline. Recordings stream as `.ne` files that start playing before they finish downloading, and Yjs-powered live rooms with voice chat make lessons collaborative. Built with Monaco, WebContainers, rrweb, and Cloudflare Workers.
 
 🎬 Its **Studio** is something that doesn't exist anywhere else yet: an AI lesson-production pipeline inside the editor. A director compiles authored scripts into deterministic performances — typing the code in the real editor, drag-highlighting exactly what the narration explains, running it live — with in-browser TTS narration linted by an editorial critic. Every render must pass mechanical QA and a two-render repeatability check before a human reviews and publishes it.
