@@ -37,7 +37,7 @@ An agentic coding CLI powered by LLMs — think, plan, and execute code changes 
 
 ---
 
-## 🤖 Agentic coding
+## ❯ Agentic coding
 
 Most of my work now starts as a prompt, a plan, and a review. The agents I actually keep open:
 
