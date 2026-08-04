@@ -21,7 +21,7 @@
 
 ### <img src="assets/kite-mark.svg" width="26" align="top" alt="" /> Kite
 
-**[github.com/channyeintun/kite-lang](https://github.com/channyeintun/kite-lang)** · Rust
+**[kite-lang.dev](https://kite-lang.dev)** · **[source](https://github.com/channyeintun/kite-lang)**
 
 A statically compiled programming language for application software, with WebAssembly as the reference target rather than an export option. WebAssembly 3.0 made garbage collection, exceptions, and tail calls baseline across every browser in June 2026 — so a language targeting it no longer ships a collector inside its own binary, and hello world is 500 bytes instead of 300 KB. The design is tuned for code that gets read far more often than it gets written: 27 keywords, no hidden control flow, immutable by default, no pointers or lifetimes, and errors as values the compiler won't let you leave unchecked. One concurrency concept — `async`/`await` — lowered to a state machine in MIR, so neither backend knows concurrency exists.
 
