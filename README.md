@@ -19,6 +19,14 @@
 
 ## 🛠️ What I'm building
 
+### <img src="assets/kite-mark.svg" width="26" align="top" alt="" /> Kite
+
+**[github.com/channyeintun/kite-lang](https://github.com/channyeintun/kite-lang)** · Rust
+
+A statically compiled programming language for application software, with WebAssembly as the reference target rather than an export option. WebAssembly 3.0 made garbage collection, exceptions, and tail calls baseline across every browser in June 2026 — so a language targeting it no longer ships a collector inside its own binary, and hello world is 500 bytes instead of 300 KB. The design is tuned for code that gets read far more often than it gets written: 27 keywords, no hidden control flow, immutable by default, no pointers or lifetimes, and errors as values the compiler won't let you leave unchecked. One concurrency concept — `async`/`await` — lowered to a state machine in MIR, so neither backend knows concurrency exists.
+
+⚙️ `kitec` targets **three real backends** — WasmGC, a register bytecode VM, and Cranelift machine code — and every program in the differential corpus runs on all three and must agree. Around it: a formatter, doc generator, fixer, test runner, package manager, bundler, and language server, all built on the compiler's own passes. The standard library is written in Kite, including `std/ui`, which renders to real DOM elements by default with canvas as its peer. And because the compiler is Rust that already targets Wasm, the playground *is* the compiler — same diagnostics, no server.
+
 ### <img src="https://raw.githubusercontent.com/channyeintun/next-editor/main/public/logo.svg" width="26" align="top" alt="" /> Next Editor
 
 **[nexteditor.dev](https://nexteditor.dev)** · **[source](https://github.com/channyeintun/next-editor)** · TypeScript
@@ -110,6 +118,6 @@ Most of my work now starts as a prompt, a plan, and a review. The agents I actua
 
 <div align="center">
 
-If **Next Editor** or **Nami** looks useful to you, a ⭐ goes a long way.
+If **Kite**, **Next Editor**, or **Nami** looks useful to you, a ⭐ goes a long way.
 
 </div>
