@@ -15,8 +15,8 @@
 
 </div>
 
-- 🧭 **Tech Lead at BinaryLab**, leading delivery of a confidential client platform under NDA (Next.js, NestJS, PostgreSQL) and an AI-driven SDLC orchestrator
-- 🧑‍💻 Previously frontend lead for two Mastodon-based social networks and engineer on products for Sheng Siong (Singapore) and Anicana (Japan)
+- 🧭 **Tech Lead at BinaryLab**, leading delivery of a platform built with Next.js, NestJS and PostgreSQL
+- 🧑‍💻 Previously frontend lead for two Mastodon-based social networks and engineer on products for Sheng Siong (Singapore) and Anicana, a Web3 platform (Japan)
 - 🤖 All-in on LLM-assisted engineering, and building my own coding agent to understand the loop end to end
 
 ---
