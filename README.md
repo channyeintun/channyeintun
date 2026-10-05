@@ -25,7 +25,7 @@
 
 ### <img src="https://raw.githubusercontent.com/channyeintun/next-editor/main/public/logo.svg" width="26" align="top" alt="" /> Next Editor — coding lessons you can pause, edit and run
 
-**[nexteditor.dev](https://nexteditor.dev)** · **[source](https://github.com/channyeintun/next-editor)** · TypeScript · 1,880+ commits
+**[nexteditor.dev](https://nexteditor.dev)** · **[source](https://github.com/channyeintun/next-editor)** · TypeScript · 2,100+ commits
 
 <a href="https://nexteditor.dev/learn/how-next-editor-works-state-not-pixels"><img src="assets/nexteditor.webp" width="320" alt="How Next Editor Works: State, Not Pixels — watch the lesson" /></a>
 
