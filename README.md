@@ -4,7 +4,7 @@
 
 **Tech Lead · Senior Full-Stack Engineer — TypeScript, React, Next.js, Node.js**
 
-<sub>6 years shipping products for teams in Singapore, Japan and Myanmar · Open to roles in Singapore, Bangkok, Ho Chi Minh City or remote</sub>
+<sub>6 years shipping products for teams in Myanmar · Open to roles in Singapore, Bangkok, Ho Chi Minh City or remote</sub>
 
 <p>
   <a href="https://www.linkedin.com/in/channyeintun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
@@ -16,7 +16,7 @@
 </div>
 
 - 🧭 **Tech Lead at BinaryLab**, leading delivery of a platform built with Next.js, NestJS and PostgreSQL
-- 🧑‍💻 Previously frontend lead for two Mastodon-based social networks and engineer on products for Sheng Siong (Singapore) and Anicana, a Web3 platform (Japan)
+- 🧑‍💻 Previously frontend lead for a Mastodon-based social network
 - 🤖 All-in on LLM-assisted engineering, and building my own coding agent to understand the loop end to end
 
 ---
