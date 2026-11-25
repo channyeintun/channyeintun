@@ -143,8 +143,6 @@ Most of my work now starts as a prompt, a plan, and a review. The agents I actua
 
 <p>
   <img src="https://img.shields.io/badge/Fireblocks%20WaaS-001E3C?style=flat-square" alt="Fireblocks WaaS" />
-  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers.js" />
-  <img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=flat-square&logo=solidity&logoColor=white" alt="Smart Contracts" />
   <img src="https://img.shields.io/badge/LLM--assisted%20Engineering-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="LLM-assisted Engineering" />
 </p>
 
