@@ -45,24 +45,6 @@ A browser-based recorder and replay engine for real, multi-file coding lessons. 
 
 📝 Write-up: [I Built an Interactive Code Recording Engine with XState Instead of Recording Videos](https://channyeintun.gitbook.io/blogs/engineering/i-built-an-interactive-code-recording-engine-with-xstate-instead-of-recording-videos)
 
-### <img src="assets/nami-mark.svg" width="26" align="top" alt="" /> Nami
-
-**[github.com/channyeintun/nami](https://github.com/channyeintun/nami)** · Go
-
-An agentic coding CLI powered by LLMs — think, plan, and execute code changes without leaving the terminal. A Go engine drives the agent loop, tool execution, and permission gating; a custom TUI (**Silvery**) streams the session; and plans, task lists, and walkthroughs persist as first-class, reviewable artifacts. Works with Anthropic, OpenAI, Google, DeepSeek, Groq, Mistral, Ollama, and GitHub Copilot.
-
-### 🐘 Next Mastodon
-
-**[source](https://github.com/channyeintun/next-mastodon)** · Next.js 16
-
-A fast Mastodon web client with real-time streaming, chat-style DMs, PWA push notifications, a Wrapstodon year-in-review and 10 languages including Burmese. Built with React 19, TanStack Query and deployed on Cloudflare via OpenNext.
-
-### <img src="assets/kite-mark.svg" width="26" align="top" alt="" /> Kite
-
-**[kite-lang.dev](https://kite-lang.dev)** · **[source](https://github.com/channyeintun/kite-lang)** · Rust
-
-A statically compiled language for WebAssembly. Most of the work goes into keeping it small enough to read: few keywords, no hidden control flow, errors you can't ignore by accident. The compiler, `kitec`, is written in Rust.
-
 ---
 
 ## ✍️ Writing
