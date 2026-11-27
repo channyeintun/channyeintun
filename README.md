@@ -30,15 +30,6 @@ A coding video you can step into. A lesson plays like a video, but what you are 
 
 I use it to teach. So far that is **420+ lessons, 55+ hours, 13 courses**, most of them narrated in Burmese. The editor's built-in studio types the code, narrates it and runs it, and each lesson passes automated checks before I publish it.
 
-**▶ Try a lesson** — press pause at any point and edit the code yourself:
-
-- **Start here:** [How Next Editor Works](https://nexteditor.dev/learn/how-next-editor-works-state-not-pixels) · [Introduction to Next Editor](https://nexteditor.dev/learn/introduction)
-- **Crash courses:** [Go](https://nexteditor.dev/learn/go-crash-course) · [Kotlin](https://nexteditor.dev/learn/kotlin-crash-course) · [Zig](https://nexteditor.dev/learn/zig-crash-course) · [Haskell](https://nexteditor.dev/learn/haskell-crash-course) · [x86-64 Assembly](https://nexteditor.dev/learn/x86-64-assembly-crash-course) · [Kite](https://nexteditor.dev/learn/kite-crash-course), a language I designed
-- **Full courses in Burmese:** [Go](https://nexteditor.dev/learn/playlist/go-course) · [TypeScript](https://nexteditor.dev/learn/playlist/typescript-course) · [CSS](https://nexteditor.dev/learn/playlist/css-course) · [React 19](https://nexteditor.dev/learn/playlist/react-19-crash-course) · [Rust](https://nexteditor.dev/learn/playlist/rust-from-zero) · [Testing](https://nexteditor.dev/learn/playlist/testing-course) · [Accessibility](https://nexteditor.dev/learn/playlist/accessibility-course) · [Site Reliability Engineering](https://nexteditor.dev/learn/playlist/site-reliability-engineering) · [Learn AI](https://nexteditor.dev/learn/playlist/learn-ai) · [AI Builder](https://nexteditor.dev/learn/playlist/ai-builder-course) · [Architect Path](https://nexteditor.dev/learn/playlist/architect-path) · [Claude Forward Deployed Engineer](https://nexteditor.dev/learn/playlist/claude-forward-deployed-engineer)
-- **Everything:** [nexteditor.dev/learn](https://nexteditor.dev/learn)
-
-📝 Write-up: [I Built an Interactive Code Recording Engine with XState Instead of Recording Videos](https://channyeintun.gitbook.io/blogs/engineering/i-built-an-interactive-code-recording-engine-with-xstate-instead-of-recording-videos)
-
 ---
 
 ## ✍️ Writing
@@ -48,8 +39,6 @@ I use it to teach. So far that is **420+ lessons, 55+ hours, 13 courses**, most 
 - [The Anatomy of an Agent Harness](https://channyeintun.gitbook.io/blogs/ai/the-anatomy-of-an-agent-harness)
 - [Harness Engineering: How to Build Software When Humans Steer, Agents Execute](https://channyeintun.gitbook.io/blogs/ai/harness-engineering-how-to-build-software-when-humans-steer-agents-execute)
 - [XState Under The Hood](https://channyeintun.gitbook.io/blogs/javascript/xstate-under-the-hood)
-- [JS Closure Memory Leaks](https://channyeintun.gitbook.io/blogs/javascript/js-closure-memory-leaks)
-- [Memory Alignment in Go](https://channyeintun.gitbook.io/blogs/go/memory-alignment-in-go)
 - [Web Accessibility](https://channyeintun.gitbook.io/blogs/accessibility/web-accessibility)
 
 ---
