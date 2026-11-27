@@ -2,10 +2,6 @@
 
 # Hi, I'm Chan Nyein Tun 👋
 
-**Tech Lead · Senior Full-Stack Engineer — TypeScript, React, Next.js, Node.js**
-
-<sub>6 years shipping products for teams in Myanmar · Open to roles in Singapore, Bangkok, Ho Chi Minh City or remote</sub>
-
 <p>
   <a href="https://www.linkedin.com/in/channyeintun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://nexteditor.dev"><img src="https://img.shields.io/badge/nexteditor.dev-0B1020?style=for-the-badge" alt="nexteditor.dev" /></a>
