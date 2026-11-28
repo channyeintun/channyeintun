@@ -11,11 +11,6 @@
 
 </div>
 
-- 🧭 **Tech Lead at BinaryLab**, leading delivery of a platform built with Next.js, NestJS and PostgreSQL
-- 🧑‍💻 Previously frontend lead for a Mastodon-based social network
-- 📚 Creator of **[Next Editor](https://nexteditor.dev)**, with 420+ free coding lessons published, most of them in Burmese
-- 🤖 All-in on LLM-assisted engineering, and building [my own coding agent](https://github.com/channyeintun/nami) to understand the loop end to end
-
 ---
 
 ## 🛠️ What I'm building
