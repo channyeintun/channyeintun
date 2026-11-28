@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## 🛠️ What I'm building
 
 ### <img src="https://raw.githubusercontent.com/channyeintun/next-editor/main/public/logo.svg" width="26" align="top" alt="" /> Next Editor — coding lessons you can pause, edit and run
