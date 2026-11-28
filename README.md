@@ -15,7 +15,7 @@
 
 ### <img src="https://raw.githubusercontent.com/channyeintun/next-editor/main/public/logo.svg" width="26" align="top" alt="" /> Next Editor — coding lessons you can pause, edit and run
 
-**[nexteditor.dev](https://nexteditor.dev)** · **[source](https://github.com/channyeintun/next-editor)** · <a href="https://github.com/channyeintun/next-editor"><img src="https://img.shields.io/github/stars/channyeintun/next-editor?style=flat-square&label=stars&color=0B1020" align="top" alt="GitHub stars" /></a> · 4,000+ commits
+**[nexteditor.dev](https://nexteditor.dev)** · **[source](https://github.com/channyeintun/next-editor)** · <a href="https://github.com/channyeintun/next-editor"><img src="https://img.shields.io/github/stars/channyeintun/next-editor?style=flat-square&label=stars&color=0B1020" align="top" alt="GitHub stars" /></a>
 
 <a href="https://nexteditor.dev/learn/how-next-editor-works-state-not-pixels"><img src="assets/nexteditor.webp" width="480" alt="How Next Editor Works: State, Not Pixels — watch the lesson" /></a>
 
